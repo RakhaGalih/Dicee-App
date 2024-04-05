@@ -2,8 +2,8 @@
 
 # Dicee
 
-## Our Goal
-
+## Result
+https://github.com/RakhaGalih/Dicee-App/assets/54633534/7b28b7e6-b6e6-4ab8-8716-ada8cad86375
 
 
 
